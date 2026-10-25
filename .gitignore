@@ -2,7 +2,6 @@
 __pycache__/
 .pytest_cache/
 *.pyc
-.ask_history.json
 
 # 秘密情報はコミットしない（APIキーは Codespaces secret で渡す）
 .env
